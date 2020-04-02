@@ -1,0 +1,2 @@
+# Image-Classification-Using-Convolutional-Neural-Network
+This deep learning project is all about developing an Image classification algorithm that could be used as part of a mobile or web app. At the end of this project, the code accepts any user-supplied image as input. If a dog is detected in the image, it will provide an estimate of the dog's breed. If a human is detected, it will provide an estimate of the dog breed that is most resembling.
